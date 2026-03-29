@@ -1,16 +1,15 @@
 # Hi, I'm Augustine Wekesa 👋 
 
-I am a **Data Science student at JKUAT** with a passion for building data-driven solutions and web applications.
+I am a **Data Science student with a passion for building data-driven solutions and web applications.
 
 ### 🚀 What I'm working on
-- 📊 Analyzing data patterns using **Python** and **Pandas**.
-- 🌐 Building responsive web projects like my [Sunrise Restaurant](https://wekesa17.github.io/Augustine-projects/sunrise.html).
+- 🌐 Building responsive web projects like my [Sunrise Restaurant](https://wekesa17.github.io/Augustine-projects/index.html).
 - ⚙️ Exploring system optimization and C++ programming.
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, C++, HTML5, CSS3, MQL5.
+- **Languages:** Python, C++, HTML5, CSS3.
 - **Tools:** VS Code, Jupyter Notebooks, Git/GitHub.
-- **OS:** Windows 11 (Customized for performance).
+
 
 ### 📈 GitHub Stats
 ![Augustine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wekesa17&show_icons=true&theme=tokyonight)
