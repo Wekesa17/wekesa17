@@ -4,6 +4,7 @@ I am a Data Science student with a passion for building data-driven solutions an
 
 ### 🚀 What I'm working on
 - 🌐 Building responsive web projects like my [Sunrise Restaurant](https://wekesa17.github.io/Augustine-projects/index.html).
+- [NAIROBI TECH HUB](https://wekesa17.github.io/personal-projects/).
 - ⚙️ Exploring system optimization and C++ programming.
 
 ### 🛠️ Tech Stack
