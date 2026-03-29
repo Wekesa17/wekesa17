@@ -1,6 +1,6 @@
 # Hi, I'm Augustine Wekesa 👋 
 
-I am a **Data Science student with a passion for building data-driven solutions and web applications.
+I am a Data Science student with a passion for building data-driven solutions and web applications.
 
 ### 🚀 What I'm working on
 - 🌐 Building responsive web projects like my [Sunrise Restaurant](https://wekesa17.github.io/Augustine-projects/index.html).
